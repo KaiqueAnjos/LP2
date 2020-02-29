@@ -1,0 +1,9 @@
+Q:\LP2\Prj_Volume\Prj_Volume\bin\Debug\Prj_Volume.exe.config
+Q:\LP2\Prj_Volume\Prj_Volume\bin\Debug\Prj_Volume.exe
+Q:\LP2\Prj_Volume\Prj_Volume\bin\Debug\Prj_Volume.pdb
+Q:\LP2\Prj_Volume\Prj_Volume\obj\Debug\Prj_Volume.csprojResolveAssemblyReference.cache
+Q:\LP2\Prj_Volume\Prj_Volume\obj\Debug\Prj_Volume.Form1.resources
+Q:\LP2\Prj_Volume\Prj_Volume\obj\Debug\Prj_Volume.Properties.Resources.resources
+Q:\LP2\Prj_Volume\Prj_Volume\obj\Debug\Prj_Volume.csproj.GenerateResource.Cache
+Q:\LP2\Prj_Volume\Prj_Volume\obj\Debug\Prj_Volume.exe
+Q:\LP2\Prj_Volume\Prj_Volume\obj\Debug\Prj_Volume.pdb
