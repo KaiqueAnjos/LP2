@@ -1,0 +1,19 @@
+c:\users\0030481923016\documents\visual studio 2013\Projects\PPesoIdeal\PPesoIdeal\bin\Debug\PPesoIdeal.exe.config
+c:\users\0030481923016\documents\visual studio 2013\Projects\PPesoIdeal\PPesoIdeal\bin\Debug\PPesoIdeal.exe
+c:\users\0030481923016\documents\visual studio 2013\Projects\PPesoIdeal\PPesoIdeal\bin\Debug\PPesoIdeal.pdb
+c:\users\0030481923016\documents\visual studio 2013\Projects\PPesoIdeal\PPesoIdeal\obj\Debug\PPesoIdeal.csprojResolveAssemblyReference.cache
+c:\users\0030481923016\documents\visual studio 2013\Projects\PPesoIdeal\PPesoIdeal\obj\Debug\PPesoIdeal.Form1.resources
+c:\users\0030481923016\documents\visual studio 2013\Projects\PPesoIdeal\PPesoIdeal\obj\Debug\PPesoIdeal.Properties.Resources.resources
+c:\users\0030481923016\documents\visual studio 2013\Projects\PPesoIdeal\PPesoIdeal\obj\Debug\PPesoIdeal.csproj.GenerateResource.Cache
+c:\users\0030481923016\documents\visual studio 2013\Projects\PPesoIdeal\PPesoIdeal\obj\Debug\PPesoIdeal.exe
+c:\users\0030481923016\documents\visual studio 2013\Projects\PPesoIdeal\PPesoIdeal\obj\Debug\PPesoIdeal.pdb
+C:\Users\kanjo\Desktop\PPesoIdeal\PPesoIdeal\bin\Debug\PPesoIdeal.exe.config
+C:\Users\kanjo\Desktop\PPesoIdeal\PPesoIdeal\bin\Debug\PPesoIdeal.exe
+C:\Users\kanjo\Desktop\PPesoIdeal\PPesoIdeal\bin\Debug\PPesoIdeal.pdb
+C:\Users\kanjo\Desktop\PPesoIdeal\PPesoIdeal\obj\Debug\PPesoIdeal.csprojAssemblyReference.cache
+C:\Users\kanjo\Desktop\PPesoIdeal\PPesoIdeal\obj\Debug\PPesoIdeal.Form1.resources
+C:\Users\kanjo\Desktop\PPesoIdeal\PPesoIdeal\obj\Debug\PPesoIdeal.Properties.Resources.resources
+C:\Users\kanjo\Desktop\PPesoIdeal\PPesoIdeal\obj\Debug\PPesoIdeal.csproj.GenerateResource.cache
+C:\Users\kanjo\Desktop\PPesoIdeal\PPesoIdeal\obj\Debug\PPesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\kanjo\Desktop\PPesoIdeal\PPesoIdeal\obj\Debug\PPesoIdeal.exe
+C:\Users\kanjo\Desktop\PPesoIdeal\PPesoIdeal\obj\Debug\PPesoIdeal.pdb
