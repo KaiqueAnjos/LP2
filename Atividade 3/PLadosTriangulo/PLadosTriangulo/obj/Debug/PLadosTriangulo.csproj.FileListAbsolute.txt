@@ -1,0 +1,10 @@
+C:\Users\kanjo\source\repos\PLadosTriangulo\PLadosTriangulo\bin\Debug\PLadosTriangulo.exe.config
+C:\Users\kanjo\source\repos\PLadosTriangulo\PLadosTriangulo\bin\Debug\PLadosTriangulo.exe
+C:\Users\kanjo\source\repos\PLadosTriangulo\PLadosTriangulo\bin\Debug\PLadosTriangulo.pdb
+C:\Users\kanjo\source\repos\PLadosTriangulo\PLadosTriangulo\obj\Debug\PLadosTriangulo.csprojAssemblyReference.cache
+C:\Users\kanjo\source\repos\PLadosTriangulo\PLadosTriangulo\obj\Debug\PLadosTriangulo.Form1.resources
+C:\Users\kanjo\source\repos\PLadosTriangulo\PLadosTriangulo\obj\Debug\PLadosTriangulo.Properties.Resources.resources
+C:\Users\kanjo\source\repos\PLadosTriangulo\PLadosTriangulo\obj\Debug\PLadosTriangulo.csproj.GenerateResource.cache
+C:\Users\kanjo\source\repos\PLadosTriangulo\PLadosTriangulo\obj\Debug\PLadosTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\kanjo\source\repos\PLadosTriangulo\PLadosTriangulo\obj\Debug\PLadosTriangulo.exe
+C:\Users\kanjo\source\repos\PLadosTriangulo\PLadosTriangulo\obj\Debug\PLadosTriangulo.pdb
