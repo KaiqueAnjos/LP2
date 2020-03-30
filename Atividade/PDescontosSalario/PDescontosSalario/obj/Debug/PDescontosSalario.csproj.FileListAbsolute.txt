@@ -1,0 +1,10 @@
+C:\Users\kanjo\source\repos\PDescontosSalario\PDescontosSalario\bin\Debug\PDescontosSalario.exe.config
+C:\Users\kanjo\source\repos\PDescontosSalario\PDescontosSalario\bin\Debug\PDescontosSalario.exe
+C:\Users\kanjo\source\repos\PDescontosSalario\PDescontosSalario\bin\Debug\PDescontosSalario.pdb
+C:\Users\kanjo\source\repos\PDescontosSalario\PDescontosSalario\obj\Debug\PDescontosSalario.csprojAssemblyReference.cache
+C:\Users\kanjo\source\repos\PDescontosSalario\PDescontosSalario\obj\Debug\PDescontosSalario.Properties.Resources.resources
+C:\Users\kanjo\source\repos\PDescontosSalario\PDescontosSalario\obj\Debug\PDescontosSalario.csproj.GenerateResource.cache
+C:\Users\kanjo\source\repos\PDescontosSalario\PDescontosSalario\obj\Debug\PDescontosSalario.csproj.CoreCompileInputs.cache
+C:\Users\kanjo\source\repos\PDescontosSalario\PDescontosSalario\obj\Debug\PDescontosSalario.exe
+C:\Users\kanjo\source\repos\PDescontosSalario\PDescontosSalario\obj\Debug\PDescontosSalario.pdb
+C:\Users\kanjo\source\repos\PDescontosSalario\PDescontosSalario\obj\Debug\PDescontosSalario.Form1.resources
