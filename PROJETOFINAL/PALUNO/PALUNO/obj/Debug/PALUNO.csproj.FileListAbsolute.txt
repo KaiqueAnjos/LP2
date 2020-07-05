@@ -1,0 +1,13 @@
+c:\users\kanjo\source\repos\PALUNO\PALUNO\bin\Debug\PALUNO.exe.config
+c:\users\kanjo\source\repos\PALUNO\PALUNO\bin\Debug\PALUNO.exe
+c:\users\kanjo\source\repos\PALUNO\PALUNO\bin\Debug\PALUNO.pdb
+c:\users\kanjo\source\repos\PALUNO\PALUNO\obj\Debug\PALUNO.csprojAssemblyReference.cache
+c:\users\kanjo\source\repos\PALUNO\PALUNO\obj\Debug\PALUNO.frmPrincipal.resources
+c:\users\kanjo\source\repos\PALUNO\PALUNO\obj\Debug\PALUNO.Properties.Resources.resources
+c:\users\kanjo\source\repos\PALUNO\PALUNO\obj\Debug\PALUNO.csproj.GenerateResource.cache
+c:\users\kanjo\source\repos\PALUNO\PALUNO\obj\Debug\PALUNO.csproj.CoreCompileInputs.cache
+c:\users\kanjo\source\repos\PALUNO\PALUNO\obj\Debug\PALUNO.exe
+c:\users\kanjo\source\repos\PALUNO\PALUNO\obj\Debug\PALUNO.pdb
+C:\Users\kanjo\source\repos\PALUNO\PALUNO\obj\Debug\PALUNO.FrmAluno.resources
+C:\Users\kanjo\source\repos\PALUNO\PALUNO\obj\Debug\PALUNO.FrmCidade.resources
+C:\Users\kanjo\source\repos\PALUNO\PALUNO\obj\Debug\PALUNO.Sobre.resources
