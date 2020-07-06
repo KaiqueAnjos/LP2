@@ -60,5 +60,10 @@ namespace PALUNO
             frm3.WindowState = FormWindowState.Normal;
             frm3.Show();
         }
+
+        private void mSair_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }

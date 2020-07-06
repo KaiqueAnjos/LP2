@@ -84,6 +84,7 @@
             this.mSair.Name = "mSair";
             this.mSair.Size = new System.Drawing.Size(38, 20);
             this.mSair.Text = "Sair";
+            this.mSair.Click += new System.EventHandler(this.mSair_Click);
             // 
             // frmPrincipal
             // 
